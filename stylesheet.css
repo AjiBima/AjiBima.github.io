@@ -258,16 +258,9 @@
   }
   
   /* FOOTER */
-  footer img {
-    width: 120px;
-    margin-top: 20px;
-    float: left;
-    padding-top: 30px;
-  }
   footer p {
     color: white;
     font-size: 15px;
-    float: right;
     padding-top: 30px;
   }
   
